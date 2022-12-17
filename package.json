@@ -1,0 +1,21 @@
+{
+  "name": "solidjs-sample",
+  "version": "0.0.0",
+  "description": "",
+  "author": "khurram",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vite": "^3.0.9",
+    "vite-plugin-solid": "^2.3.0"
+  },
+  "dependencies": {
+    "babel-preset-solid": "^1.6.3",
+    "solid-js": "^1.6.5"
+  }
+}
